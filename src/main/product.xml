@@ -1,0 +1,24 @@
+<products>
+	<root>
+		<category name="1">
+			<subcategory name="11">
+				<product>
+					<productName>Product 1</productName>
+					<provider>Provider 1</provider>
+					<model>Model 1</model>
+					<dateOfIssue>date 1</dateOfIssue>
+					<color>color 1</color>
+					<price>Price 1</price>
+				</product>
+				<product>
+					<productName>1234</productName>
+					<provider>1234</provider>
+					<model>1234</model>
+					<date>1234</date>
+					<color>1234</color>
+					<price>1234</price>
+				</product>
+			</subcategory>
+		</category>
+	</root>
+</products>
